@@ -18,7 +18,7 @@ The demo will be improved by adding:
 
 In the future I will also post a design document that was written during pre-production. It contains basic information about the game, financial calculations and life cycle planning (I did it only for my university studies), description of the game world, characters and story.
 
-This game will also end its life at the demo level and will never be released. The game was very interesting and fun to make, but I want to focus on learning game design. For this game, I hand-drew most of the graphics and also wrote all the code, which made me a bit tired. Now I want to switch to Unreal Engine, to do projects in 3D. For the next projects, I will be focusing on engaging and unique gameplay. I also plan to use mostlty ready assets so I don't get distracted from working out the mechanics.
+This game will also end its life at the demo level and will never be released. The game was very interesting and fun to make, but I want to focus on learning game design. For this game, I hand-drew a lot of textures and also developed a lot of code, which made me a bit tired. Now I want to switch to Unreal Engine, to do projects in 3D. For the next projects, I will be focusing on engaging and unique gameplay. I also plan to use mostlty ready assets so I don't get distracted from working out the mechanics.
 
 
 ## My First Unity2D Project (done)
