@@ -1,4 +1,27 @@
-# Unity2D Games
+# Current Main Work
+## Farpunk 2077 (in plan)
+**Cyberpunk 2077 Action Shooter Rebalance**
+<p align="center">
+<img src="https://github.com/MoodyDan/PetProjects/assets/57444845/58b3e7f7-a1fc-47b1-b775-b7b53c1d0489" width="300">
+</p>
+
+I plan to start this project in the near future. The bottom line is that I don't really like RPG shooters, and although I began to like *CP 2077* v2 more, it's not what I would like. Of the action shooters in which we fight with humanoids, I like the balance of the *Far Cry* series (3-5), so I want to transfer the damage system from there to *Cyberpunk* so that shooting does not contain damage numbers and all that.
+
+
+# Unreal Engine
+
+## Fortnite Custom PvP Duel Map - Wild West (in work)
+**2 simple duel arenas with win counter in the scenery of the Wild West**
+![123](https://github.com/MoodyDan/PetProjects/assets/57444845/6fa4d110-2590-4b75-8aa4-e8523f6e17d3)
+![222](https://github.com/MoodyDan/PetProjects/assets/57444845/c99babb5-26fd-4249-80d8-1b1b83ded6df)
+![new](https://github.com/MoodyDan/PetProjects/assets/57444845/40fcd809-84d3-4a82-9b1a-b78e37c903ff)
+![444](https://github.com/MoodyDan/PetProjects/assets/57444845/2197f0a7-5e35-476e-a1ea-a0e740630f64)
+![555](https://github.com/MoodyDan/PetProjects/assets/57444845/46834a7c-7632-41d8-91db-828a39d492d8)
+![666](https://github.com/MoodyDan/PetProjects/assets/57444845/c47f4c87-380d-41b2-a551-1addaad51e67)
+
+I'm learning UE while doing this project. Currently testing the online component.
+
+# Unity2D
 
 ## Project Ivan (done)
 
