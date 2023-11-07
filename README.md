@@ -23,6 +23,16 @@ I'm learning UE while doing this project. Currently testing the online component
 
 # Unity2D
 
+## Russians vs Lizzards (in work)
+**The game was made at the Siberian Game Jam 2023.**
+([Download - PC](https://itch.io/jam/sibgamejam-nov-2023/rate/2354535)) **currently unplayable** 
+
+![image](https://github.com/MoodyDan/PetProjects/assets/57444845/b9f87cb1-88a8-437a-bf3b-d2cbe3e4aacd)
+![image](https://github.com/MoodyDan/PetProjects/assets/57444845/50ad9fa7-e57b-4cae-b2fa-b22586297e2d)
+![123](https://github.com/MoodyDan/PetProjects/assets/57444845/4908058f-c881-4679-9584-25e3dcc33adf)
+
+The game was made in a team of 4 people. I was a game designer and came up with a lot of fun mechanics, wrote a huge detailed document, selected the voice acting and came up with the plot, quests and phrases of the characters.
+
 ## Project Ivan (done)
 
 **Paper's Please like puzzle game in a communist setting with post-Soviet vibe.**
