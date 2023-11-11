@@ -1,29 +1,10 @@
-# Current Main Work
-## Farpunk 2077 (in plan)
-**Cyberpunk 2077 Action Shooter Rebalance**
-<p align="center">
-<img src="https://github.com/MoodyDan/PetProjects/assets/57444845/58b3e7f7-a1fc-47b1-b775-b7b53c1d0489" width="300">
-</p>
-
-I plan to start this project in the near future. The bottom line is that I don't really like RPG shooters, and although I began to like *CP 2077* v2 more, it's not what I would like. Of the action shooters in which we fight with humanoids, I like the balance of the *Far Cry* series (3-5), so I want to transfer the damage system from there to *Cyberpunk* so that shooting does not contain damage numbers and all that.
-
-
-# Unreal Engine
-
-## Fortnite Custom PvP Duel Map - Wild West (in work)
-**2 simple duel arenas with win counter in the scenery of the Wild West**
-![123](https://github.com/MoodyDan/PetProjects/assets/57444845/6fa4d110-2590-4b75-8aa4-e8523f6e17d3)
-![222](https://github.com/MoodyDan/PetProjects/assets/57444845/c99babb5-26fd-4249-80d8-1b1b83ded6df)
-![new](https://github.com/MoodyDan/PetProjects/assets/57444845/40fcd809-84d3-4a82-9b1a-b78e37c903ff)
-![444](https://github.com/MoodyDan/PetProjects/assets/57444845/2197f0a7-5e35-476e-a1ea-a0e740630f64)
-![555](https://github.com/MoodyDan/PetProjects/assets/57444845/46834a7c-7632-41d8-91db-828a39d492d8)
-![666](https://github.com/MoodyDan/PetProjects/assets/57444845/c47f4c87-380d-41b2-a551-1addaad51e67)
-
-I'm learning UE while doing this project. Currently testing the online component.
-
 # Unity2D
 
-## Russians vs Lizzards (in work)
+## Русы против ящеров Survivors (in work)
+
+**Игра была разработана на Siberian Game Jam 2023.**
+([Download - PC](https://itch.io/jam/sibgamejam-nov-2023/rate/2354535)) **сейчас неиграбельно** 
+
 **The game was made at the Siberian Game Jam 2023.**
 ([Download - PC](https://itch.io/jam/sibgamejam-nov-2023/rate/2354535)) **currently unplayable** 
 
@@ -31,7 +12,13 @@ I'm learning UE while doing this project. Currently testing the online component
 ![image](https://github.com/MoodyDan/PetProjects/assets/57444845/50ad9fa7-e57b-4cae-b2fa-b22586297e2d)
 ![123](https://github.com/MoodyDan/PetProjects/assets/57444845/4908058f-c881-4679-9584-25e3dcc33adf)
 
-The game was made in a team of 4 people. I was a game designer and came up with a lot of fun mechanics, wrote a huge detailed document, selected the voice acting and came up with the plot, quests and phrases of the characters.
+
+Игра разрабатывалась командой из 4 человек (художник, программист, гейм-дизайнер и саунд-дизайнер). Я был гейм-дизайнером и придумал много забавных механик, написал диздок, подобрал озвучку и придумал сюжет, квесты и фразы персонажей.
+
+К сожалению игра оказалась слишком амбициозной и собрать всё во время джема мы не успели. Когда будет играбельная версия напишу подробнее об игре и её разработке.
+
+### Немного об игре
+Survivor в сеттинге русов против ящеров с 2D графикой в изометрии. Особенностью игры является большая карта, где ключевой точкой является деревня русов. В ней можно брать квесты и прокачивать снаряжение героя. Не менее важной особенностью является боевая система, но о ней позже.
 
 ## Project Ivan (done)
 
@@ -83,3 +70,30 @@ The game was made in a team of 4 people. I was a game designer and came up with 
 По итогу цель была выполнена - в игре реально был один уровень, который можно начать и можно закончить (+ даже получить какой-то результат). На этом мой пыл угас, ибо я утомился от разработки системных аспектов игры. Я не пользовался ни одним готовым фреймворком и просто устал писать код. Моей целью было продумать интересную игру, механики, а вместо этого я 90% времени инвестировал в программирование, 5% в арт и может оставшиеся 5% в геймдизайн. Да и игра за это время мне просто наскучила. Поэтому Project Ivan навсегда останется лишь демкой.
 
 Но всё же делать этот проект было весело. Я многому научился как в гейм дизайне, так и в пиксель арте и программировании, стал мыслить более структурно и приучил себя фиксировать мысли текстом, трекать задачи и планировать их. Еще я понял, что делать игру в одиночку это не весело (и не продуктивно). Скидывать свой ГД я не буду, ибо им я не горжусь. Он неплох в плане структуры, но написан чисто под меня (ибо я единственный участник проекта). Следующие ГД будут намного лучше. Уверен в этом.
+
+# Unreal Engine
+
+## Fortnite Custom PvP Дуэльная карта - Дикий запад (in work)
+**2 дуэльные зоны с счетчиком побед в сеттинге Дикого запада**
+**2 simple duel arenas with win counter in the scenery of the Wild West**
+![123](https://github.com/MoodyDan/PetProjects/assets/57444845/6fa4d110-2590-4b75-8aa4-e8523f6e17d3)
+![222](https://github.com/MoodyDan/PetProjects/assets/57444845/c99babb5-26fd-4249-80d8-1b1b83ded6df)
+![new](https://github.com/MoodyDan/PetProjects/assets/57444845/40fcd809-84d3-4a82-9b1a-b78e37c903ff)
+![444](https://github.com/MoodyDan/PetProjects/assets/57444845/2197f0a7-5e35-476e-a1ea-a0e740630f64)
+![555](https://github.com/MoodyDan/PetProjects/assets/57444845/46834a7c-7632-41d8-91db-828a39d492d8)
+![666](https://github.com/MoodyDan/PetProjects/assets/57444845/c47f4c87-380d-41b2-a551-1addaad51e67)
+
+Хотел разобраться с UE5, но не хотел делать что-то на грейбоксах Для Fortnite есть неплохой редактор, который по факту является обычным UE5 + по умолчанию содержит большую часть контента самой игры. Так можно поработать со всеми составляющими движка и сразу же что-то создать.
+
+Сейчас осталось лишь протестировать онлайн, но для этого мне нужно 2 аккаунта creatorа. Приходится ждать 30 дней.
+
+# In Plan
+## Farpunk 2077 (mod)
+**Cyberpunk 2077 Action Shooter Rebalance**
+<p align="center">
+<img src="https://github.com/MoodyDan/PetProjects/assets/57444845/58b3e7f7-a1fc-47b1-b775-b7b53c1d0489" width="300">
+</p>
+
+В ближайшем будущем планирую сделать ребаланс для CP 2077. Мне не очень заходят RPG шутеры, и хотя патч 2.0 упростил RPG составляющую оружий и добавил автолевелинг врагам мне всё ещё хотелось бы видеть Cyberpunk экшн шутером. В планах настроить баланс так, чтобы оружия всегда наносили одинаковый урон (независимо от их уровня). Одинаковые типы противников будут умирать с одинаковой скоростью. Уровни сложности будут определять только то, как быстро враги убивают героя. Грубо говоря это баланс из игр серии FarCry (3-5).
+
+Плюсом этого ребаланса будет то, что все оружия станут эффективными и можно выбрать наиболее интересное исходя не из цифр урона, а из его удобства. Ну и не надо будет выпускать обойму во врага на высоких сложностях. На низких же сложностях можно будет даже умереть от выстрелов противников (сейчас они отнимают всего по 5-10 урона).
