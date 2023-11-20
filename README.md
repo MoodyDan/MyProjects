@@ -1,6 +1,6 @@
 # Unity2D
 
-## Русы против ящеров Survivors (in work)
+## Русы против ящеров Survivors (drop)
 
 **Игра была разработана на [Siberian Game Jam 2023](https://itch.io/jam/sibgamejam-nov-2023/rate/2354535)**
 ([Download - PC](https://drive.google.com/file/d/11rSrAr5D5L6aEgwv8t66CrE26yd-9m2u/view?usp=sharing)) **неиграбельно (можно побродить по локации)** 
