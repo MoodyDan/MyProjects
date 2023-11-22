@@ -1,3 +1,6 @@
+# 📌 [Моё резюме](https://docs.google.com/document/d/1P3Avp883erA7LROaMH_uSbWfCfMC5mB0kL3tV_oEW6Q)
+# ✉️ [Мой Telegram](https://t.me/moody_dan) (@moody_dan)
+
 # Unity2D
 
 ## 🌜 Top-down хоррор для Яндекс Игр (in work)
