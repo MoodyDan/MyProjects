@@ -1,7 +1,8 @@
 # 📌 [Моё резюме](https://docs.google.com/document/d/1P3Avp883erA7LROaMH_uSbWfCfMC5mB0kL3tV_oEW6Q)
-# 📜 [Моё резюме на hh.ru](https://tyumen.hh.ru/resume/822fb6abff0c9bad890039ed1f6d6371777643?disableBrowserCache=true&hhtmFrom=resume_list)
 # 📄 [Моё резюме с hh.ru](https://drive.google.com/file/d/1AvGLzt8jHbOBAHYmleC3poUluT8vYTku/view?usp=sharing)
+# 📜 [Моё резюме на hh.ru](https://tyumen.hh.ru/resume/822fb6abff0c9bad890039ed1f6d6371777643?disableBrowserCache=true&hhtmFrom=resume_list)
 # ✉️ [Мой Telegram](https://t.me/moody_dan) (@moody_dan)
+# ⭐ [Пример ТЗ для программиста](https://docs.google.com/document/d/1S1dPwm7IczBFUVW1rBYKPe64-5BtOo4elZDa2obaGo0/edit?usp=sharing)
 
 # Unity2D
 
