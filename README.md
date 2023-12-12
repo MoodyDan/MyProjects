@@ -1,8 +1,32 @@
-# 📌 [Моё резюме](https://docs.google.com/document/d/1P3Avp883erA7LROaMH_uSbWfCfMC5mB0kL3tV_oEW6Q)
-# 📄 [Моё резюме с hh.ru](https://drive.google.com/file/d/1AvGLzt8jHbOBAHYmleC3poUluT8vYTku/view?usp=sharing)
-# 📜 [Моё резюме на hh.ru](https://tyumen.hh.ru/resume/822fb6abff0c9bad890039ed1f6d6371777643?disableBrowserCache=true&hhtmFrom=resume_list)
-# ✉️ [Мой Telegram](https://t.me/moody_dan) (@moody_dan)
-# ⭐ [Пример ТЗ для программиста](https://docs.google.com/document/d/1S1dPwm7IczBFUVW1rBYKPe64-5BtOo4elZDa2obaGo0/edit?usp=sharing)
+# 💅 My bio
+> Wellcome, Web Traveler
+
+![image](https://github.com/MoodyDan/MyProjects/assets/57444845/9112e53a-3e3b-4f08-8cee-c4e5b2a0ea07)
+
+**Даниил (Daniel) aka Moody Dan - 22 yo**
+- Great game designer (**certified**)
+- Noodle coder
+- Armless artist
+
+## Для русскоязычных Гигачадов
+
+Когда-то стану великим GD и буду работать над лучшими играми в индустрии (повторяю себе это каждый день). А пока пилю инди, участвую в Джемах и стремлюсь попасть в PC / консольный проект. Прежде всего иду к своему первому релизу. Хотелось бы начать со Steam, но мб стартану с itch или даже Яндекс игр. Мобилками не интересуюсь, казино не уважаю.
+
+Все мои интересные проекты собраны здесь. Публикую только то, чем сам горжусь. Стараюсь делать каждую последующую игру всё круче и круче, но мне всячески мешает необходимость писать код и создавать текстуры. Поэтому сейчас в дополнение к Unity осваиваю Game Maker и подтягиваю рисование (преимущественно Pixel Art). Мечтаю сделать игру на UE, но без пачки денег на покупку ассетов не буду даже пытаться. Может в будущем соберу инди команду, пока такой цели нет. В планах писать и снимать видео об играх.
+
+## For Hommies from all over the world
+
+Someday I will become a great GD and will work on the best games in the industry (I tell myself that every day). In the meantime, I'm writing indies, participating in Jams and aiming to get into a PC / console project. First and foremost going for my first release. I would like to start with Steam, but it may be itch or even Yandex Games (russian web games platform). I'm not interested in mobiles and don't respect casinos.
+
+All my interesting projects are here. I publish only what I am proud of myself. I try to make each next game cooler and cooler, but I am hindered by the need to code and create textures. So now in addition to Unity I'm learning Game Maker and drawing (mostly Pixel Art). I dream of making a game on UE, but without a bundle of money to buy assets I won't even try. Maybe in the future I'll put together an indie team, so far I don't have such a goal. I plan to write and make videos about games.
+
+## Links
+
+📺 [YouTube with all Projects](https://www.youtube.com/channel/UC-hK8cZQnrTcVWOkqce041g)
+
+📰 [DTF](https://dtf.ru/u/408080-moody-dan)
+
+✉️ [Telegram](https://t.me/moody_dan) (@moody_dan)
 
 # Unity2D
 
